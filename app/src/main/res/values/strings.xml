@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Appname</string>
+    <string name="Name">APPNAME</string>
+    <string name="Welcome">Добро пожаловать!</string>
+    <string name="e_mail">e-mail</string>
+    <string name="password">password</string>
+    <string name="forgot">Забыли пароль?</string>
+    <string name="sign_in">Войти</string>
+    <string name="to_register">Нет аккаунта?</string>
+    <string name="reg_title">Регистрация</string>
+    <string name="input_data_reg">Введите данные для регистрации</string>
+    <string name="text_reg_name">name</string>
+    <string name="make_acc">СОЗДАТЬ</string>
+    <string name="exist_acc1">Уже есть аккаунт?</string>
+    <string name="rep_password">repeat password</string>
+    <string name="intro_game">Пройти тест?</string>
+    <string name="another_time">Нет, в другой раз</string>
+    <string name="yes">Да!</string>
+    <string name="title_activity_bottom">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_home">MainActivity</string>
+</resources>
